@@ -1,5 +1,5 @@
 # Dacon_AIfriends
 
-|Rank||RMSE|
+|Rank|RMSE|
 |------|---|
-|35|6.02075	|
+|35|6.02075|
